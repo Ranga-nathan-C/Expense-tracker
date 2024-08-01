@@ -1,0 +1,9 @@
+body {
+    margin: 20px;
+}
+.table th, .table td {
+    vertical-align: middle;
+}
+.text-right{
+    text-align: end;
+}
